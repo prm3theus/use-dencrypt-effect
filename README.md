@@ -71,7 +71,7 @@ Number of miliseconds it takes for every animation step (one character).
 ![](https://github.com/crazko/use-dencrypt-effect/raw/master/docs/example1.gif)
 
 ```js
-const options: {
+const options = {
   chars: ["_"]
 }
 
